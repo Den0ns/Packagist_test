@@ -1,0 +1,20 @@
+{
+    "name": "xy/hello",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dem0ns",
+            "email": "2423503330@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "xy\\":"src/"
+        }
+    }
+
+}
